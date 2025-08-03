@@ -50,19 +50,6 @@ I'm a **Machine Learning Engineer** and **Full-Stack Developer** who believes in
 | **[NGAFID Anomaly Detection](https://github.com/Dubeman/ngafid_anomaly_detection)** | ML pipeline for aviation safety through flight data analysis | ✈️ Enhancing aviation safety | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white) |
 | **[FISC AI](https://github.com/Dubeman/fisc-ai)** | Responsible financial AI making complex data accessible | 💰 Democratizing financial insights | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) |
 
-</div>
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dubeman&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dubeman&layout=compact&theme=radical&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dubeman&theme=radical)
-
-</div>
 
 ## 🤝 **Let's Build Thoughtful AI Together**
 
