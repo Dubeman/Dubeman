@@ -39,7 +39,7 @@ I'm a **Machine Learning Engineer** and **Full-Stack Developer** who believes in
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-## 🌟 **Featured Projects: **
+##  **Featured Projects:**
 
 <div align="center">
 
