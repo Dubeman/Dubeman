@@ -25,6 +25,6 @@ LLM systems • Retrieval-augmented generation • Scalable ML deployment
 ---
 
 ### Connect
-[LinkedIn](https://linkedin.com/in/manas-dubey) •  
+[LinkedIn](https://www.linkedin.com/in/manas-dubey-aba466234/) •  
 [Portfolio](https://personal-portfolio-rho-tawny.vercel.app) •  
 [Email](mailto:manasdubey.work@gmail.com)
