@@ -1,30 +1,30 @@
-# Hi, I'm Manas Dubey 👋
+# Manas Dubey
 
-<div align="center">
+Machine Learning Engineer focused on building reproducible AI systems and research-grade ML pipelines.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full-Stack+Developer;Building+Thoughtful+AI+Systems)
+## Selected Projects (CS Portfolio)
 
-</div>
+1. [rag-system-elastic](https://github.com/Dubeman/rag-system-elastic)
+   - Hybrid Retrieval-Augmented Generation using `ELSER (sparse) + BM25 + dense embeddings`, fused with RRF.
+   - API-first design with FastAPI and a Streamlit UI; Docker Compose for reproducible runs.
 
-Machine Learning Engineer interested in building practical AI systems that solve real-world problems.  
-I enjoy working across machine learning, cloud infrastructure, and product development.
+2. [teli-ssl-classifier](https://github.com/Dubeman/teli-ssl-classifier)
+   - TELI: Teacher ensembling for label interpolation in semi-supervised learning.
+   - Emphasizes confidence-aware pseudo-labeling, ablation-friendly experiments, and visualization utilities.
 
-### Tech Stack
-**ML / AI**  
-Python • PyTorch • TensorFlow • scikit-learn
+3. [ngafid_anomaly_detection](https://github.com/Dubeman/ngafid_anomaly_detection)
+   - Anomaly detection on NGAFID aviation flight time-series with classical + ML + deep/time-series approaches.
+   - Includes notebooks for end-to-end analysis and model comparison.
 
-**Full Stack**  
-TypeScript • React • Next.js • Node.js • PostgreSQL
+## Research & Engineering Interests
 
-**Cloud / DevOps**  
-Docker • Terraform • Vercel
+- Retrieval-augmented generation (hybrid retrieval, fusion, citations)
+- Semi-supervised learning (teacher ensembles, pseudo-label reliability)
+- Time-series anomaly detection and forecasting
+- Scalable ML deployments and evaluation
 
-### Currently Exploring
-LLM systems • Retrieval-augmented generation • Scalable ML deployment
+## Connect
 
----
-
-### Connect
-[LinkedIn](https://www.linkedin.com/in/manas-dubey-aba466234/) •  
-[Portfolio](https://personal-portfolio-rho-tawny.vercel.app) •  
-[Email](mailto:manasdubey.work@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/manas-dubey-aba466234/)
+- [Portfolio](https://personal-portfolio-rho-tawny.vercel.app)
+- [Email](mailto:manasdubey.work@gmail.com)
